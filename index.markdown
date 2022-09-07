@@ -1,17 +1,15 @@
-<!--default.html-->
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>HeatDeCam Detecting Hidden Spy Cameras via Thermal Emissions</title>
-    <link rel="stylesheet" href="/assets/css/custom.css">
-</head>
-<body>
+layout: home
+title: HeatDeCam Detecting Hidden Spy Cameras via Thermal Emissions
+layout: default
+---
 
-    <h1 id="heatdecam-detecting-hidden-spy-cameras-via-thermal-emissions">HeatDeCam Detecting Hidden Spy Cameras via Thermal Emissions</h1>
-<h2 id="abstract">Abstract</h2>
-<p>Unlawful video surveillance of unsuspecting individuals using
+# {{ page.title }}
+## Abstract
+Unlawful video surveillance of unsuspecting individuals using
 spy cameras has become an increasing concern. To mitigate these
 threats, there are both commercial products and research proto-
 types designed to detect hidden spy cameras in household and
@@ -29,7 +27,4 @@ from 6 rooms across different environmental conditions. Using this
 dataset, we found HeatDeCam can achieve over 95% accuracy in
 detecting hidden cameras. We have also conducted a usability eval-
 uation involving a total of 416 participants using both an online
-survey and an in-person usability test to validate HeatDeCam.</p>
-
-</body>
-</html>
+survey and an in-person usability test to validate HeatDeCam.
