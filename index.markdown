@@ -28,3 +28,9 @@ dataset, we found HeatDeCam can achieve over 95% accuracy in
 detecting hidden cameras. We have also conducted a usability eval-
 uation involving a total of 416 participants using both an online
 survey and an in-person usability test to validate HeatDeCam.
+
+# Team
+
+# Features
+
+# Demo
