@@ -8,8 +8,25 @@ layout: default
 
 # HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions
 
-<p style='font-family: Georgia,sans-serif'> Unlawful video surveillance of unsuspecting individuals using spy cameras has become an increasing concern. To mitigate these threats, there are both commercial products and research prototypes designed to detect hidden spy cameras in household and office environments. However, existing work often relies heavily on user expertise and only applies to wireless cameras. To bridge this gap, we propose HeatDeCam, a thermal-imagery-based spy camera detector, capable of detecting hidden spy cameras with or without built-in wireless connectivity. To reduce the reliance on user expertise, HeatDeCam leverages a compact neural network deployed on a smartphone to recognize unique heat dissipation patterns of spy cameras. To evaluate the proposed system, we have collected and open-sourced a dataset of a total of 22,506 thermal and visual images. These images consist of 11 spy cameras collected from 6 rooms across different environmental conditions. Using this dataset, we found HeatDeCam can achieve over 95% accuracy in
-detecting hidden cameras. We have also conducted a usability evaluation involving a total of 416 participants using both an online survey and an in-person usability test to validate HeatDeCam.</p>
+Unlawful video surveillance of unsuspecting individuals using
+spy cameras has become an increasing concern. To mitigate these
+threats, there are both commercial products and research prototypes
+designed to detect hidden spy cameras in household and
+office environments. However, existing work often relies heavily
+on user expertise and only applies to wireless cameras. To bridge
+this gap, we propose HeatDeCam, a thermal-imagery-based spy
+camera detector, capable of detecting hidden spy cameras with or
+without built-in wireless connectivity. To reduce the reliance on
+user expertise, HeatDeCam leverages a compact neural network
+deployed on a smartphone to recognize unique heat dissipation
+patterns of spy cameras. To evaluate the proposed system, we have
+collected and open-sourced a dataset of a total of 22,506 thermal
+and visual images. These images consist of 11 spy cameras collected
+from 6 rooms across different environmental conditions. Using this
+dataset, we found HeatDeCam can achieve over 95% accuracy in
+detecting hidden cameras. We have also conducted a usability evaluation
+involving a total of 416 participants using both an online
+survey and an in-person usability test to validate HeatDeCam.
 
 ## Team
 HeatDeCam was developed by the following team of academica researchers:
@@ -23,11 +40,20 @@ HeatDeCam was developed by the following team of academica researchers:
 
 <p style='text-align: center'> Contact us at <a href="mailto:yu.zhiyuan@wustl.edu">yu.zhiyuan@wustl.edu</a></p>
 
-<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="logos/UTK.jpg" alt="UTK_logo" width="170"/></center>
-
+<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/><img src="logos/UTK.jpg" alt="UTK_logo" width="200"/></center>
 
 ## Features
 
-#### Motivation of this work
+**Motivation of This Work**
 
-As a matter of fact, this work is motivated by the observation that 
+&nbsp;This work is motivated by the gap of existing detection methods and our obervations on the heat dissipation patterns of spy cameras.
+
+&nbsp;There have been both commercial products and research prototypes that leverage radiofrequency (RF) signals and optical reflections to detect spy cameras. While achieving impressive detection performance, they could be limited in detecting non-wirelessly connected cameras and usability. To fill the gap, we leverage thermal imagery as the detection vector. An example of heat dissipation patterns in shown in the figures below. 
+
+<center><img src="figs/Angle1.png" alt="Angle1" width="200"/><img src="figs/Angle2.png" alt="Angle2" width="200"/></center>
+
+&nbsp;We observe that the spy camera disguised as a charger plug (at the top in black) exhibits additional uneven heat distribution, as compared to the regular charger plug (at the bottom in white). This is because spy cameras have to add unique hardware components (e.g., SD cards, image sensors) without changing the original form factor. It will unavoidable affect internal layout that was originally optimized for heat dissipation. 
+
+**Key Approach**
+
+&nbsp;However, it is almost impossible that we require users to manually distinguish heat patterns with their raw eyes.
