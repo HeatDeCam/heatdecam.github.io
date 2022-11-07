@@ -25,23 +25,23 @@ collected and open-sourced a dataset of a total of 22,506 thermal
 and visual images. These images consist of 11 spy cameras collected
 from 6 rooms across different environmental conditions. Using this
 dataset, we found HeatDeCam can achieve over 95% accuracy in
-detecting hidden cameras. We have also conducted a usability eval-
-uation involving a total of 416 participants using both an online
+detecting hidden cameras. We have also conducted a usability evaluation
+involving a total of 416 participants using both an online
 survey and an in-person usability test to validate HeatDeCam.
 
 ## Team
 HeatDeCam was developed by the following team of academica researchers:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhiyuan Yu** at Washington University in St. Louis  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhuohang Li** at University of Tennessee, Knoxville  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yuanhaur Chang** at Washington University in St. Louis  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Skylar Fong** at Washington University in St. Louis  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jian Liu** at University of Tennessee, Knoxville  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ning Zhang** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Zhiyuan Yu](https://batyu.github.io/zhiyuanyu/)** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Zhuohang Li](http://web.eecs.utk.edu/~zli96/)** at University of Tennessee, Knoxville  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Yuanhaur Chang](https://changoliver.github.io/)** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Skylar Fong](https://www.linkedin.com/in/skylarfong/)** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Jian Liu](https://web.eecs.utk.edu/~jliu/)** at University of Tennessee, Knoxville  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Ning Zhang](https://engineering.wustl.edu/faculty/Ning-Zhang.html)** at Washington University in St. Louis  
 
-<p style='text-align: center'> Contact us at <a href="mailto:heatdecam@gmail.com">heatdecam@gmail.com</a></p>
+<p style='text-align: center'> Contact us at <a href="mailto:yu.zhiyuan@wustl.edu">yu.zhiyuan@wustl.edu</a></p>
 
-<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/><img src="logos/UT.png" alt="UT_logo" width="200"/></center>
+<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/><img src="logos/UTK.jpg" alt="UTK_logo" width="200"/></center>
 
 
 ## Features
