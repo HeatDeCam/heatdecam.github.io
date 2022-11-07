@@ -40,7 +40,7 @@ HeatDeCam was developed by the following team of academica researchers:
 
 <p style='text-align: center'> Contact us at <a href="mailto:yu.zhiyuan@wustl.edu">yu.zhiyuan@wustl.edu</a></p>
 
-<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/><img src="logos/UTK.jpg" alt="UTK_logo" width="200"/></center>
+<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="logos/UTK.jpg" alt="UTK_logo" width="170"/></center>
 
 
 ## Features
