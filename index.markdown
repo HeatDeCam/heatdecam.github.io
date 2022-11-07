@@ -45,6 +45,6 @@ HeatDeCam was developed by the following team of academica researchers:
 
 ## Features
 
-### Motivation of this work
+#### Motivation of this work
 
 As a matter of fact, this work is motivated by the observation that 
