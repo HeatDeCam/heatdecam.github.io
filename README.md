@@ -2,7 +2,7 @@
 
 ### Paper
 
-This is the official repository for the paper "HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions" accepted by ACM CCS 2022. 
+This is the official repository for the paper "**HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions**" accepted by ACM CCS 2022. 
 
 In this project, we aimed to fight unlawful video surveillance and protect people's privacy. To do so, we developed a usable mechanism to detect hidden spy cameras by analyzing their heat emissions. From a high level, we collect the first thermal image dataset for spy cameras, with which we train a supervised learning model to recognize hidden cameras and visualize their locations using gradient.
 
