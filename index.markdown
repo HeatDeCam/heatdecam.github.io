@@ -46,14 +46,14 @@ HeatDeCam was developed by the following team of academica researchers:
 
 **Motivation of This Work**
 
-&nbsp;This work is motivated by the gap of existing detection methods and our obervations on the heat dissipation patterns of spy cameras.
+This work is motivated by the gap of existing detection methods and our obervations on the heat dissipation patterns of spy cameras.
 
-&nbsp;There have been both commercial products and research prototypes that leverage radiofrequency (RF) signals and optical reflections to detect spy cameras. While achieving impressive detection performance, they could be limited in detecting non-wirelessly connected cameras and usability. To fill the gap, we leverage thermal imagery as the detection vector. An example of heat dissipation patterns in shown in the figures below. 
+There have been both commercial products and research prototypes that leverage radiofrequency (RF) signals and optical reflections to detect spy cameras. While achieving impressive detection performance, they could be limited in detecting non-wirelessly connected cameras and usability. To fill the gap, we leverage thermal imagery as the detection vector. An example of heat dissipation patterns in shown in the figures below. 
 
 <center><img src="figs/Angle1.png" alt="Angle1" width="200"/><img src="figs/Angle2.png" alt="Angle2" width="200"/></center>
 
-&nbsp;We observe that the spy camera disguised as a charger plug (at the top in black) exhibits additional uneven heat distribution, as compared to the regular charger plug (at the bottom in white). This is because spy cameras have to add unique hardware components (e.g., SD cards, image sensors) without changing the original form factor. It will unavoidable affect internal layout that was originally optimized for heat dissipation. 
+We observe that the spy camera disguised as a charger plug (at the top in black) exhibits additional uneven heat distribution, as compared to the regular charger plug (at the bottom in white). This is because spy cameras have to add unique hardware components (e.g., SD cards, image sensors) without changing the original form factor. It will unavoidable affect internal layout that was originally optimized for heat dissipation. 
 
 **Key Approach**
 
-&nbsp;However, it is almost impossible that we require users to manually distinguish heat patterns with their raw eyes.
+However, it is almost impossible that we require users to manually distinguish heat patterns with their raw eyes.
