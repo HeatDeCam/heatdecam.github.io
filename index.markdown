@@ -2,17 +2,16 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
 title: HeatDeCam Detecting Hidden Spy Cameras via Thermal Emissions
 layout: default
 ---
 
-# {{ page.title }}
-## Abstract
+# HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions
+
 Unlawful video surveillance of unsuspecting individuals using
 spy cameras has become an increasing concern. To mitigate these
-threats, there are both commercial products and research proto-
-types designed to detect hidden spy cameras in household and
+threats, there are both commercial products and research prototypes
+designed to detect hidden spy cameras in household and
 office environments. However, existing work often relies heavily
 on user expertise and only applies to wireless cameras. To bridge
 this gap, we propose HeatDeCam, a thermal-imagery-based spy
@@ -46,4 +45,6 @@ HeatDeCam was developed by the following team of academica researchers:
 
 ## Features
 
-## Demo
+### Motivation of this work
+
+As a matter of fact, this work is motivated by the observation that 
