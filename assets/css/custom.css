@@ -97,7 +97,7 @@ a:active {
 				text-align: center;
 				font-family: Montserrat,sans-serif;
 				font-weight: bold;
-				font-size: 21pt;
+				font-size: 27pt;
 				color: #3399ff;
 				padding-bottom: 13px;
 			}
@@ -166,6 +166,8 @@ a:active {
 				font-family: Montserrat,sans-serif;
 				font-size: 18px;
 				line-height: 1.5em;
+				margin-left: 30em;
+				margin-right: 30em;
 				color: #474747;
 			}
 			.answer {

@@ -29,8 +29,21 @@ detecting hidden cameras. We have also conducted a usability eval-
 uation involving a total of 416 participants using both an online
 survey and an in-person usability test to validate HeatDeCam.
 
-# Team
+## Team
+HeatDeCam was developed by the following team of academica researchers:
 
-# Features
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhiyuan Yu** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zhuohang Li** at University of Tennessee, Knoxville  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yuanhaur Chang** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Skylar Fong** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Jian Liu** at University of Tennessee, Knoxville  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ning Zhang** at Washington University in St. Louis  
 
-# Demo
+<p style='text-align: center'> Contact us at <a href="mailto:heatdecam@gmail.com">heatdecam@gmail.com</a></p>
+
+<center><img src="logos/WUSTL.png" alt="WashU_logo" width="200"/><img src="logos/UT.png" alt="UT_logo" width="200"/></center>
+
+
+## Features
+
+## Demo
