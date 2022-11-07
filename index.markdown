@@ -59,3 +59,7 @@ The key design elements include:
 The structural design of the neural network incorporates ResNet-based feature extration and attention module that enables more effective learning of heat pattern features.
 
 <center><img src="figs/NeuralNetwork.png" alt="NeuralNetwork" width="200"/></center>
+
+**Experiments in the Real World**
+
+We developed an Android app 
