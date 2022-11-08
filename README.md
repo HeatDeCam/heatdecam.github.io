@@ -6,7 +6,7 @@ This is the official repository for the paper "**HeatDeCam: Detecting Hidden Spy
 
 In this project, we aimed to fight unlawful video surveillance and protect people's privacy. To do so, we developed a usable mechanism to detect hidden spy cameras by analyzing their heat emissions. From a high level, we collect the first thermal image dataset for spy cameras, with which we train a supervised learning model to recognize hidden cameras and visualize their locations using gradient.
 
-The paper is available at https://cybersecurity.seas.wustl.edu/paper/CCS22_HeatDeCam_Yu.pdf.
+The paper is available [here](https://dl.acm.org/doi/10.1145/3548606.3560669).
 
 ### Dataset
 

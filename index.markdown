@@ -51,15 +51,19 @@ The overall workflow of our detection algorithm is depicted in the figure.
 
 The key design elements include:
 
-+ Thermal-visual registration to align spatial features
-+ Adaptive soft mask to mitigate environmental influences while preserving context
-+ Neural-network-based feature extraction and recognition 
-+ CAM-based visualization of hidden locations of spy cameras
+- Thermal-visual registration to align spatial features
+- Adaptive soft mask to mitigate environmental influences while preserving context
+- Neural-network-based feature extraction and recognition 
+- CAM-based visualization of hidden locations of spy cameras
 
-The structural design of the neural network incorporates ResNet-based feature extration and attention module that enables more effective learning of heat pattern features.
+The structural design of the neural network incorporates ResNet-based feature extration and attention module that enables effective learning of heat pattern features.
 
-<center><img src="figs/NeuralNetwork.png" alt="NeuralNetwork" width="800"/></center>
+<center><img src="figs/NeuralNetwork.png" alt="NeuralNetwork" width="600"/></center>
 
 **Experiments in the Real World**
 
-We developed an Android app 
+We developed an Android app as a prototype of our approach. Besides evaluation on our collected dataset, we also invited people to use our prototype to find hidden spy cameras deployed in a simulated room. Our method is shown to be superior to commercial products in both detection rate and false positive. To test the robustness in high-temperature environments, we also conduct experiments in a room with temperature over 104 fahrenheit degrees.
+
+<center><img src="figs/Detectors.jpg" alt="Detectors" width="230"/>&nbsp;&nbsp;<img src="figs/InPersonRoom.jpg" alt="Room" width="260"/></center>&nbsp;&nbsp;<img src="figs/AdvEnv.png" alt="AdvEnv" width="260"/></center>
+
+For more details of our work, please see our [paper](https://dl.acm.org/doi/10.1145/3548606.3560669). Also please contact us if you have any questions!
