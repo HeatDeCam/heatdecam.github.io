@@ -42,7 +42,32 @@ threats, there are both commercial products and research prototypes designed to 
 
 <p><strong>Key Approach</strong></p>
 
-<p>However, it is almost impossible that we require users to manually distinguish heat patterns with their raw eyes.</p>
+<p>However, it is almost impossible that we require users to manually distinguish heat patterns with their raw eyes. We develop a data-driven approach with designed neural network model to recognize and locate the spy cameras.</p>
+
+<p>We collect the first thermal image dataset of spy cameras. It consists of over 22,056 images collected from six rooms across three scenarios, Airbnb, hotel, and office. A total of eleven heterogeneous spy cameras with varying properties in apperances, functionalities, brands, costs.</p>
+
+<center><img src="figs/Spycams.jpg" alt="Spycams" width="230" />&nbsp;&nbsp;<img src="figs/Rooms.png" alt="Rooms" width="260" /></center>
+
+<p>The overall workflow of our detection algorithm is depicted in the figure.</p>
+
+<center><img src="figs/Workflow.png" alt="Workflow" width="830" /></center>
+
+<p>The key design elements include:</p>
+
+<ul>
+  <li>Thermal-visual registration to align spatial features</li>
+  <li>Adaptive soft mask to mitigate environmental influences while preserving context</li>
+  <li>Neural-network-based feature extraction and recognition</li>
+  <li>CAM-based visualization of hidden locations of spy cameras</li>
+</ul>
+
+<p>The structural design of the neural network incorporates ResNet-based feature extration and attention module that enables more effective learning of heat pattern features.</p>
+
+<center><img src="figs/NeuralNetwork.png" alt="NeuralNetwork" width="800" /></center>
+
+<p><strong>Experiments in the Real World</strong></p>
+
+<p>We developed an Android app</p>
 
 </body>
 </html>

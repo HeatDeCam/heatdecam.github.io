@@ -43,11 +43,11 @@ However, it is almost impossible that we require users to manually distinguish h
 
 We collect the first thermal image dataset of spy cameras. It consists of over 22,056 images collected from six rooms across three scenarios, Airbnb, hotel, and office. A total of eleven heterogeneous spy cameras with varying properties in apperances, functionalities, brands, costs.
 
-<center><img src="figs/Spycams.jpg" alt="Spycams" width="200"/>&nbsp;&nbsp;<img src="figs/Rooms.png" alt="Rooms" width="200"/></center>
+<center><img src="figs/Spycams.jpg" alt="Spycams" width="230"/>&nbsp;&nbsp;<img src="figs/Rooms.png" alt="Rooms" width="260"/></center>
 
 The overall workflow of our detection algorithm is depicted in the figure.
 
-<center><img src="figs/Workflow.png" alt="Workflow" width="200"/></center>
+<center><img src="figs/Workflow.png" alt="Workflow" width="830"/></center>
 
 The key design elements include:
 
@@ -58,7 +58,7 @@ The key design elements include:
 
 The structural design of the neural network incorporates ResNet-based feature extration and attention module that enables more effective learning of heat pattern features.
 
-<center><img src="figs/NeuralNetwork.png" alt="NeuralNetwork" width="200"/></center>
+<center><img src="figs/NeuralNetwork.png" alt="NeuralNetwork" width="800"/></center>
 
 **Experiments in the Real World**
 
