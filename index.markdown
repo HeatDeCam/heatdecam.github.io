@@ -62,8 +62,8 @@ The structural design of the neural network incorporates ResNet-based feature ex
 
 **Experiments in the Real World**
 
-We developed an Android app as a prototype of our approach. Besides evaluation on our collected dataset, we also invited people to use our prototype to find hidden spy cameras deployed in a simulated room. Our method is shown to be superior to commercial products in both detection rate and false positive. To test the robustness in high-temperature environments, we also conduct experiments in a room with temperature over 104 fahrenheit degrees.
+We developed an Android app as a prototype of our approach. Besides evaluation on our collected dataset, we also invited people to use our prototype to find hidden spy cameras deployed in a simulated room. Our method is shown to be superior to commercial products in both detection rate and false positive. To test the robustness in high-temperature environments, we also conduct experiments in a room with temperature over 104°F.
 
-<center><img src="figs/Detectors.jpg" alt="Detectors" width="230"/>&nbsp;&nbsp;<img src="figs/InPersonRoom.jpg" alt="Room" width="260"/></center>&nbsp;&nbsp;<img src="figs/AdvEnv.png" alt="AdvEnv" width="260"/></center>
+<center><img src="figs/Detectors.jpg" alt="Detectors" width="230"/>&nbsp;&nbsp;<img src="figs/InPersonRoom.jpg" alt="Room" width="230"/>&nbsp;&nbsp;<img src="figs/AdvEnv.png" alt="AdvEnv" width="172"/></center>
 
 For more details of our work, please see our [paper](https://dl.acm.org/doi/10.1145/3548606.3560669). Also please contact us if you have any questions!
