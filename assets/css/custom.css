@@ -141,7 +141,7 @@ a:active {
 				}
 
 			li {
-				 list-style: circle;
+				 list-style-type: circle;
 			}
 			.question li::before {
 					content: "\2B50\FE0F";
@@ -177,7 +177,7 @@ a:active {
 				margin-top: 13px;
 			}
 			.answer li{
-				 list-style: circle;
+				 list-style-type: circle;
 			}
 			.answer li::before{
 				display: none;
