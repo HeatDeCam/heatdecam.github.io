@@ -141,7 +141,7 @@ a:active {
 				}
 
 			li {
-				 list-style: none;
+				 list-style: circle;
 			}
 			.question li::before {
 					content: "\2B50\FE0F";
