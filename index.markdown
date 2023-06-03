@@ -14,7 +14,7 @@ threats, there are both commercial products and research prototypes designed to 
 ## Team
 HeatDeCam was developed by the following team of academica researchers:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Zhiyuan Yu](https://batyu.github.io/zhiyuanyu/)** at Washington University in St. Louis  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Zhiyuan Yu](https://zh1yu4nyu.github.io/)** at Washington University in St. Louis  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Zhuohang Li](http://web.eecs.utk.edu/~zli96/)** at University of Tennessee, Knoxville  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Yuanhaur Chang](https://changoliver.github.io/)** at Washington University in St. Louis  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Skylar Fong](https://www.linkedin.com/in/skylarfong/)** at Washington University in St. Louis  
